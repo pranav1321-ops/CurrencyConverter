@@ -66,4 +66,4 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Exchange rates provided by [Your API Provider](https:/
+- Exchange rates provided by https://v6.exchangerate-api.com/v6/
